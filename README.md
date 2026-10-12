@@ -4,5 +4,5 @@
 
 - 📫 How to reach me: stephengerads@gmail.com
 
-# **smgera/smgera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
+<!--  **smgera/smgera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
